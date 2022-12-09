@@ -2,7 +2,7 @@
 
 Mini projeto de uma calculadora de IMC feio em REACT
 
-##Instruções para o funcionamento do projeto
+## Instruções para o funcionamento do projeto
 
 > Instalar o Node JS.
 > Instalar o yarn.
